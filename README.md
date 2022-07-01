@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @fourbic
+- 👋 Hi, I’m @fourbic, and I solve business problems with technology
+
 - 👀 I’m interested in #data, #research and #Digital media in revolutionizing #SME's
 - 🌱 I’m currently learning how to leverage on data driven solutions for small enterprises
 - 💞️ I’m looking to collaborate on #startups, entrepneurship.
